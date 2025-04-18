@@ -1,5 +1,3 @@
-# HLL-Settings-Backup-Restore-Script
-
 <h1 align="center" style="font-weight: bold;">Settings-Backup-Restore-Script for Hell let Loose</h1>
 
 <p align="center"></p>
