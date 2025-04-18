@@ -7,7 +7,7 @@
 <h2 id="layout"></h2>
 
 <p align="center">
-<img src="[https://i.imgur.com/8XmDwWF.png](https://avatars.githubusercontent.com/u/66743742?v=4)" alt="Random Image" width="250px">
+<img src="https://i.imgur.com/8XmDwWF.png" alt="Random Image" width="250px">
 </p>
 
 ## Deutsch
