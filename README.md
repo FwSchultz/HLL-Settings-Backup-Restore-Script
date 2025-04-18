@@ -1,7 +1,17 @@
 # HLL-Settings-Backup-Restore-Script
 
+<h1 align="center" style="font-weight: bold;">Settings-Backup-Restore-Script for Hell let Loose</h1>
+
+<p align="center"></p>
+
+<h2 id="layout"></h2>
+
+<p align="center">
+<img src="[https://i.imgur.com/8XmDwWF.png](https://avatars.githubusercontent.com/u/66743742?v=4)" alt="Random Image" width="250px">
+</p>
+
 ## Deutsch
-Dies ist ein Backup- und Restore-Skript im Batch-Format für Hell let Loose. 
+Dies ist ein Backup- und Restore-Skript im Batch-Format und Exe-Format für Hell let Loose. 
 Da in letzter Zeit die Einstellungen von Hell let Loose automatisch überschrieben oder auf Standardeinstellungen zurückgesetzt werden, habe ich dieses Skript geschrieben.
 
 Kopieren Sie das Skript in einen Ordner, in dem Sie es immer wieder finden können. 
@@ -25,3 +35,13 @@ P.S.: You may get a message that the file is unsafe when you run it. "It is safe
 If you are familiar with the code, you will see that there is nothing malicious in it.
 
 Have fun with it
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contact
+
+For questions or issues, contact the project maintainer:
+
+- **Discord:** [Fw.Schultz](https://discord.gg/tKhMCr2ZYZ)
