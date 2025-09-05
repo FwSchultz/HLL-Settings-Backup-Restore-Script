@@ -1,0 +1,21 @@
+# 🔒 Umgebungsvariablen
+
+# 🗃 SQLite-Datenbank
+
+# 🔍 Log-Dateien
+
+# 🔒 Backup-Dateien
+.Backup/
+
+# 🔥 Python Cache & Build Files
+
+# 📦 Virtuelle Umgebungen
+
+# 🗑 Paket- und Abhängigkeitsverwaltung
+
+# 📄 Exportierte VIP-Listen
+
+# 🖼 IDE- und Editor-Spezifische Dateien
+
+# 📜 Sonstige generierte oder temporäre Dateien
+baue exe.bat
