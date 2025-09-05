@@ -1,3 +1,40 @@
+<div align="center">
+
+  <img src="https://github.com/FwSchultz/assets/blob/main/bots/FwS-Bots/Bot.png" alt="logo" width="200" height="auto" />
+  <h1>HLL-Settings-Backup- & Restore- and Movie-Rename Script</h1>
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/FwSchultz/HLL-Settings-Backup-Restore-Script" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/FwSchultz/HLL-Settings-Backup-Restore-Script" alt="last update" />
+  </a>
+  <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script/network/members">
+    <img src="https://img.shields.io/github/forks/FwSchultz/HLL-Settings-Backup-Restore-Script" alt="forks" />
+  </a>
+  <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script/stargazers">
+    <img src="https://img.shields.io/github/stars/FwSchultz/HLL-Settings-Backup-Restore-Script" alt="stars" />
+  </a>
+  <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script/issues/">
+    <img src="https://img.shields.io/github/issues/FwSchultz/HLL-Settings-Backup-Restore-Script" alt="open issues" />
+  </a>
+  <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/FwSchultz/HLL-Settings-Backup-Restore-Script.svg" alt="license" />
+  </a>
+</p>
+   
+<h4>
+    <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/FwSchultz/HLL-Settings-Backup-Restore-Script/issues/">Request Feature</a>
+  </h4>
+</div>
+
+<br />
 
 # HLL Backup & Video Manager
 
